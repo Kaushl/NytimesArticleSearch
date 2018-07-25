@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Ny Times</string>
+  <string name="progress_loading">Loading articles…</string>
+  <string name="action_search">Search</string>
+  <string name="title_detail_activity">Read Article</string>
+  <string name="toast_no_results">No articles found.</string>
+  <string name="no_internet_title">No Internet</string>
+  <string name="no_internet_content">Internet Access Needs To Be Enabled To Display Weather Data</string>
+  <string name="no_internet_mobile_data">Mobile Data</string>
+  <string name="no_internet_wifi">Wi-Fi</string>
+</resources>
