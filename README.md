@@ -11,6 +11,7 @@ About the App features:
 Additional Features:
 -> In addition to article serach, App lets the user to access the deatils for that article clicked.
  -> Can find many article semaelessly with EndlessRecyclerViewScrollListener.
+ ->Share teh article via third or inbuild app on phone such as email, facebook, message etc.
 
 Edge cases that are taken care of:
 -> Doesn’t crash when internet is disabled, when there is no network connectivity and when the article not found.
